@@ -1,10 +1,9 @@
-<p align="center">
+<!-- <p align="center">
 
   <img src="https://user-images.githubusercontent.com/18241760/210707862-74d4c909-a71d-497e-a1a1-c24c32692bb5.PNG" width="200" height="200">
  
-</p>
-
-<h2 align="center">Farrukh Ismailov</h2>
+</p> -->
+<h2 align="center"> <a href="https://github.com/faluhe">Mobile Developer(iOS)</a></h2>
 
 <p align="center">I am an iOS-developer, with over than 2 years of experience, developed more than 5 apps, mostly programmatic layout. Worked closely with backend developers, product managers and UX/UI Designers for making high quality apps and define rich experience for the user. Developing and supporting mobile applications in Swift, Proficient in design patterns, object-oriented methodologies and excellent debugging skills in Xcode.</p>
 <p align="center">
