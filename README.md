@@ -1,10 +1,11 @@
 
+
 <h2 align="center"> <a href="https://github.com/faluhe">Mobile Developer(iOS)</a></h2>
 
 <p align="center">I am an iOS-developer, with around 3 years of experience, developed more than 5 apps, mostly programmatic layout. Worked closely with backend developers, product managers and UX/UI Designers for making high quality apps and define rich experience for the user. Developing and supporting mobile applications in Swift, Proficient in design patterns, object-oriented methodologies and excellent debugging skills in Xcode.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/farrukh-ismailov-a9a23b193/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=farrukh&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://github.com/faluhe/faluhe/files/10369485/Farrukh.CV.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
+  <a href="https://github.com/faluhe/faluhe/files/10396171/Farrukh.CV.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
 </p><br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
