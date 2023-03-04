@@ -2,10 +2,10 @@
 
 <h2 align="center"> <a href="https://github.com/faluhe">Mobile Developer(iOS)</a></h2>
 
-<p align="center">I am an iOS-developer, with around 3 years of experience, personally developed more than 5 apps, mostly programmatic layout. Worked closely with backend developers, product managers and UX/UI Designers for making high quality apps and define rich experience for the user. Developing and supporting mobile applications in Swift, Proficient in design patterns, object-oriented methodologies and excellent debugging skills in Xcode.</p>
+<p align="center">Experienced iOS developer with a passion for creating innovative and engaging mobile applications. Possess strong time management skills, fast learning ability, creativity, good problem-solving and leadership skills. Seeking a chal- lenging role in a dynamic company where I can utilize my technical skills and continue to grow as a developer.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/farrukh-ismailov-a9a23b193/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=farrukh&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://github.com/faluhe/faluhe/files/10609983/.."><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
+  <a href="https://github.com/faluhe/faluhe/files/1060"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
 </p><br>
 
 <h2>👨‍💻 Software Development Projects:</h2>
