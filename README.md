@@ -10,7 +10,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>NGO Tajikistan - an App for a non-profit organization</b>
+- <b>NGO Tajikistan - an App for a non-profit organization featuring critical information such as news, feedback, and laws that are easily accessible for people in the region. This comprehensive platform provides a valuable resource for individuals seeking essential information in an intuitive and user-friendly way. </b>
   - [view in App Store](https://apps.apple.com/us/app/ngo-tajikistan/id1554217896)
 <!-- app screens -->
 <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://user-images.githubusercontent.com/18241760/210917807-17cf39d2-7dc7-4e6b-8d6b-3b7c4f4b6554.PNG" width="150" height="320">
 </p>
  
-- <b>Avrang - an eCommerce app that can be used in Tajikistan, an online store of electronics, furniture, dishes and accessories.</b>
+- <b>Avrang - an eCommerce app for the biggest home goods store in Dushanbe where user has the option to purchase online, the app also included a feature where users could take an advantage of installment plans offered by local banks, making it even easier for customers to shop.</b>
   - [view in App Store](https://apps.apple.com/us/app/avrang/id1609472437)
 <!-- app screens -->
 <p align="center">
@@ -51,7 +51,7 @@
   <img src="https://user-images.githubusercontent.com/18241760/210921257-8417703c-3ed6-40a5-a468-45e021a9a037.png" width="150" height="320">
 </p>
 
-- <b>Khorugh - an app for people who live or travel to Khorugh city which is located in Tajikistan. This app includes news, jobs, events, currencies, weather and other city related information.  </b>
+- <b>Khorugh - a pioneering platform for people living or traveling to Khorugh city in Mountain Badakhshan, Tajikistan. This comprehensive app includes features such as news, jobs, events, currencies, weather, and other city-related information, providing a valuable resource for locals and visitors. </b>
   - to be released
 <!-- app screens -->
 <p align="center">
@@ -63,7 +63,7 @@
   <img src="https://user-images.githubusercontent.com/18241760/210922337-f4d7bed2-049e-41d6-8b31-a4ff2a5bf597.PNG" width="150" height="320">
 </p>
  
-- <b>Livo Go - a marketplace app with ability to buy food, clothes and other accessories.  </b>
+- <b>Livo Go - a marketplace app that is the first of its kind in the region and has transformed the way people purchase products. One of the major achievements of the app is its ability to facilitate the sale of products by other partners, making it a comprehensive and inclusive marketplace for customers.  </b>
   - to be released
 <!-- app screens -->
 <p align="center">
