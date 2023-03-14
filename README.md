@@ -41,7 +41,7 @@
   <img src="https://user-images.githubusercontent.com/18241760/210918660-821072bb-e99f-4a06-8dc8-20b565549748.jpg " width="150" height="320">
 </p>
 
-- <b>Livo Driver - an app for couriers who want to work in the Livo Go delivery service which is located in Tajikistan.</b>
+- <b>Livo Driver - an app for couriers who want to work in the Livo Go delivery service which is located in Dushanbe, Tajikistan.</b>
   - [view in App Store](https://apps.apple.com/us/app/livodriver/id1626231441)
 <!-- app screens -->
 <p align="center">
