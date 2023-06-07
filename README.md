@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://github.com/faluhe/faluhe/assets/18241760/a6215daf-f32c-4f69-b8dc-e1322639f997" width="600" height="200">
 </p>
+<hr>
 
-
-### Hi there 👋, my name is Farrukh
+### Hi there 👋,  My name is Farrukh
 
 Hey, I'm an iOS developer from Canada who loves crafting cool and engaging mobile apps. I'm always eager to learn new languages and frameworks. Let's make the app world a more exciting place together! 🍁📱✨
 
@@ -13,8 +13,8 @@ Skills: Swift / SwiftUI / RxSwift / MVVM / MVP / MVC / MVVM - C / Swinject / Com
  <p align="center">
   <a href="https://www.linkedin.com/in/farrukh-ismailov-a9a23b193/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=farrukh&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://github.com/faluhe/faluhe/files/1060"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
-</p><br>
-
+</p>
+<hr>
 
 <!-- <h2 align="center"> <a href="https://github.com/faluhe">Mobile Developer(iOS)</a></h2>
 
