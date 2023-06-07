@@ -1,9 +1,10 @@
 
-### Hi there 👋, my name is Farrukh
-
 <p align="center">
-  <img src="https://github.com/faluhe/faluhe/assets/18241760/a6215daf-f32c-4f69-b8dc-e1322639f997" width="300" height="100">
+  <img src="https://github.com/faluhe/faluhe/assets/18241760/a6215daf-f32c-4f69-b8dc-e1322639f997" width="600" height="200">
 </p>
+
+
+### Hi there 👋, my name is Farrukh
 
 Hey, I'm an iOS developer from Canada who loves crafting cool and engaging mobile apps. I'm always eager to learn new languages and frameworks. Let's make the app world a more exciting place together! 🍁📱✨
 
