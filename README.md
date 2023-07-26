@@ -8,7 +8,7 @@
 
 <br>
 
-Hey, I'm an iOS developer from Canada who loves crafting cool and engaging mobile apps. I'm always eager to learn new languages and frameworks. Let's make the app world a more exciting place together! 🍁📱✨
+Hey, I'm an iOS developer from Canada who loves crafting cool and engaging mobile apps. 
 
 Skills: Swift / SwiftUI / RxSwift / MVVM / MVP / MVC / MVVM - C / Swinject / Combine / Core Data / Realm / GCD / SnapKit and more...
 
