@@ -86,7 +86,7 @@ Skills: Swift / SwiftUI / RxSwift / MVVM / MVP / MVC / MVVM - C / Swinject / Com
 - <b>Livo Go - a marketplace app that is the first of its kind in the region and has transformed the way people purchase products. One of the major achievements of the app is its ability to facilitate the sale of products by other partners, making it a comprehensive and inclusive marketplace for customers.  </b>
   - to be released -->
 <!-- app screens -->
-<!-- <p align="center">
+ <p align="center">
   <img src="https://user-images.githubusercontent.com/18241760/210922453-f473a01d-5e9b-48ed-b124-66a99aa1740b.png" width="150" height="320">
   <img src="https://user-images.githubusercontent.com/18241760/210922498-4599be68-e479-4640-9cb4-e08d87fa9c69.png" width="150" height="320">
   <img src="https://user-images.githubusercontent.com/18241760/210922495-3bdc342e-aab9-4e4e-9744-4d202aafd9ec.PNG" width="150" height="320">
