@@ -1,6 +1,7 @@
 
-<p align="center">
-  <img src="https://github.com/faluhe/faluhe/assets/18241760/a6215daf-f32c-4f69-b8dc-e1322639f997](https://github.com/faluhe/faluhe/assets/18241760/d093ec91-d37c-48a0-a8fa-d9d862139c0c)" width="600" height="200">
+ 
+"center">
+  <img src="https://github.com/faluhe/faluhe/assets/18241760/32324433-2fd1-4c24-9887-e8463df19466" width="600" height="200">
 </p>
 <hr>
 
