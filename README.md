@@ -4,14 +4,18 @@
 </p>
 <hr>
 
-### Hi there 👋,  My name is Farrukh 
+### Hi there 👋,   My name is Farrukh 
  
 
 <br>
 
-Hey, I'm an iOS developer from Canada who loves crafting cool and engaging mobile apps. 
+I'm an experienced software engineer, honing my skills in iOS development with a strong command of Swift and Objective-C. My expertise lies in creating applications that are not just technically sound but also deliver a seamless and enjoyable experience for users.
 
-Skills: Swift / SwiftUI / RxSwift / MVVM / MVP / MVC / MVVM - C / Swinject / Combine / Core Data / Realm / GCD / SnapKit and more...
+• Developed an optimized delivery app for efficient package tracking, an e-commerce platform with in-app purchases, a city app, a taxi app, and a healthcare app, demonstrating end-to-end iOS development skills.
+• Experienced with reactive programming utilizing Combine and RxSwift.
+• Expertise in mobile software architectural patterns such as MVC, MVVM-C, MVP.
+
+Skills: Swift / SwiftUI / RxSwift / MVVM / MVP / MVC / MVVM - C / Swinject / Combine / Core Data / Realm / GCD / SnapKit etc.
 
 <br>
 
