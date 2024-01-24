@@ -1,10 +1,11 @@
 
 <p align="center">
-  <img src="https://github.com/faluhe/faluhe/assets/18241760/a6215daf-f32c-4f69-b8dc-e1322639f997" width="600" height="200">
+  <img src="[https://github.com/faluhe/faluhe/assets/18241760/a6215daf-f32c-4f69-b8dc-e1322639f997](https://github.com/faluhe/faluhe/assets/18241760/d093ec91-d37c-48a0-a8fa-d9d862139c0c)" width="600" height="200">
 </p>
 <hr>
 
 ### Hi there 👋,  My name is Farrukh 
+ 
 
 <br>
 
